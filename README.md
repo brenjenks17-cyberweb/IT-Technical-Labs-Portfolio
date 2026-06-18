@@ -1,2 +1,44 @@
-# IT-Technical-Labs-Portfolio
-IT labs and projects focused on help desk, cloud basics, and troubleshooting while I build hands on IT experience.
+# IT Technical Labs Portfolio
+
+This is where I’m putting IT labs and projects while I build up hands-on experience in help desk, cloud, and basic IT support work.
+
+Right now I’m focusing on learning by doing instead of just reading or watching tutorials.
+
+## What’s in here
+
+- Azure user and group management lab
+- IT ticketing workflow practice
+- Windows endpoint security monitoring lab
+
+## Projects
+
+### Azure Windows User Management Lab
+Working with users and groups in Azure Entra ID (basic admin tasks and identity management).
+
+https://github.com/brenjenks17-cyberweb/Azure-windows-user-management-lab
+
+---
+
+### IT Ticketing Workflow Lab
+Simulated help desk tickets showing how I document issues, troubleshoot, and resolve common IT problems.
+
+https://github.com/brenjenks17-cyberweb/Ticketing-Workflow-Lab
+
+---
+
+### Windows Endpoint Security Monitoring Lab
+Basic endpoint security and monitoring practice on Windows systems (logs, alerts, and system activity tracking).
+
+https://github.com/brenjenks17-cyberweb/Windows-Endpoint-Security-Monitoring-Lab
+
+## About me
+
+I’m working toward getting into IT support / help desk and eventually moving into cloud or cybersecurity roles.
+
+I’m building projects as I learn so I can actually apply the skills instead of just studying them.
+
+## Where I’m headed
+
+- Entry-level IT support / help desk
+- Cloud basics (Azure / Microsoft 365)
+- Eventually cloud security or cybersecurity
