@@ -33,7 +33,7 @@ https://github.com/brenjenks17-cyberweb/Windows-Endpoint-Security-Monitoring-Lab
 
 ---
 
-### Windows Endpoint Security Monitoring Lab
+### Windows End-User Troubleshooting
 
 Hands-on Windows troubleshooting lab covering common help desk issues such as application failures, network connectivity problems, performance issues, disk space management, Windows updates, and user sign-in issues.
 
