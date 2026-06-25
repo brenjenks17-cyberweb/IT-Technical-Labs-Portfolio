@@ -31,6 +31,14 @@ Basic endpoint security and monitoring practice on Windows systems (logs, alerts
 
 https://github.com/brenjenks17-cyberweb/Windows-Endpoint-Security-Monitoring-Lab
 
+---
+
+Windows End-User Troubleshooting Lab
+
+Hands-on Windows troubleshooting lab covering common help desk issues such as application failures, network connectivity problems, performance issues, disk space management, Windows updates, and user sign-in issues.
+
+https://github.com/brenjenks17-cyberweb/Windows-End-User-Troubleshooting-Lab
+
 ## About me
 
 I’m working toward getting into IT support / help desk and eventually moving into cloud or cybersecurity roles.
