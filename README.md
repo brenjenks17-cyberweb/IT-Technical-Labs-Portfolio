@@ -1,6 +1,6 @@
 # IT Technical Labs Portfolio
 
-This is where I’m putting IT labs and projects while I build up hands-on experience in help desk, cloud, and basic IT support work.
+This is where I’m putting IT labs and projects while I build up hands on experience in help desk, cloud, and basic IT support work.
 
 Right now I’m focusing on learning by doing instead of just reading or watching tutorials.
 
@@ -35,7 +35,7 @@ https://github.com/brenjenks17-cyberweb/Windows-Endpoint-Security-Monitoring-Lab
 
 ### Windows End-User Troubleshooting
 
-Hands-on Windows troubleshooting lab covering common help desk issues such as application failures, network connectivity problems, performance issues, disk space management, Windows updates, and user sign-in issues.
+Hands on Windows troubleshooting lab covering common help desk issues such as application failures, network connectivity problems, performance issues, disk space management, Windows updates, and user sign-in issues.
 
 https://github.com/brenjenks17-cyberweb/Windows-End-User-Troubleshooting-Lab
 
@@ -43,7 +43,7 @@ https://github.com/brenjenks17-cyberweb/Windows-End-User-Troubleshooting-Lab
 
 ### Active-Directory-Domain-Services-Lab
 
-Built a Windows Server Active Directory environment by configuring a Domain Controller, setting up AD DS, creating domain users, and testing authentication in a simulated enterprise network.
+Built a lab based Windows Server directory environment by establishing domain services, organizing user access through accounts and groups, and confirming authentication and login behavior across a simulated network setup.
 
 https://github.com/brenjenks17-cyberweb/Active-Directory-Domain-Services-Lab
 
