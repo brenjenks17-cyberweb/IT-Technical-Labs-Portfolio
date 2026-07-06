@@ -39,6 +39,14 @@ Hands-on Windows troubleshooting lab covering common help desk issues such as ap
 
 https://github.com/brenjenks17-cyberweb/Windows-End-User-Troubleshooting-Lab
 
+---
+
+### Active-Directory-Domain-Services-Lab
+
+Built a Windows Server Active Directory environment by configuring a Domain Controller, setting up AD DS, creating domain users, and testing authentication in a simulated enterprise network.
+
+https://github.com/brenjenks17-cyberweb/Active-Directory-Domain-Services-Lab
+
 ## About me
 
 I’m working toward getting into IT support / help desk and eventually moving into cloud or cybersecurity roles.
