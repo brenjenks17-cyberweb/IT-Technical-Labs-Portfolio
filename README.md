@@ -9,7 +9,7 @@ Right now I’m focusing on learning by doing instead of just reading or watchin
 - Azure user and group management lab
 - IT ticketing workflow practice
 - Windows endpoint security monitoring lab
--Active Directory Domain Services (AD DS) lab
+- Active Directory Domain Services (AD DS) lab
 
 ## Projects
 
